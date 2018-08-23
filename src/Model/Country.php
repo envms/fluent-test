@@ -1,6 +1,6 @@
 <?php
 
-namespace Envms\FluentTest;
+namespace Envms\FluentTest\Model;
 
 /**
  * Class Country
